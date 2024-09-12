@@ -1,0 +1,2 @@
+# deptaccounts
+Notion Department Accounts
